@@ -1,0 +1,23 @@
+body {
+    color: #00ff41;  /* Neon green text */
+    background-color: #080808;  /* Almost black background */
+    font-family: 'Courier New', Courier, monospace;
+}
+
+textarea {
+    background-color: #333333;
+    color: #00ff41;
+    border-color: #006600;
+}
+/* 
+.stButton>button {
+    background-color: #333333;
+    color: #00ff41;
+    border: 1px solid #006600;
+} */
+
+.stTextInput>input {
+    background-color: #333333;
+    color: #00ff41;
+    border: 1px solid #006600;
+}
