@@ -2,6 +2,7 @@ import streamlit as st
 import pickle
 import string
 import plotly.graph_objects as go
+import plotly
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
