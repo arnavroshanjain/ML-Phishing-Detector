@@ -8,7 +8,7 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-#nltk.download('all')
+nltk.download('all')
 
 # Ensure necessary NLTK resources are downloaded
 # nltk.download('punkt')
