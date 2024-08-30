@@ -5,5 +5,3 @@ numpy
 altair
 nltk
 scikit-learn
-distutils
-setuptools
